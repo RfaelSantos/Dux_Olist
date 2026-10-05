@@ -272,3 +272,20 @@ Para reproduzir o projeto em outro ambiente:
 8. abrir o arquivo do Power BI para exploração dos resultados.
 
 O projeto evita dependências de caminhos absolutos para os arquivos de dados, permitindo que a pasta `Dux_Olist` seja movida para outro diretório ou computador sem necessidade de alterar os caminhos dos CSVs.
+
+## Autoria
+
+**Rafael Antunes**  
+Analista de Dados | Python | SQL | Power BI
+
+Este projeto foi desenvolvido como parte de um processo de avaliação técnica para a posição de Analista de Dados Sênior.
+
+### Contato
+
+- **GitHub:** [RfaelSantos](https://github.com/RfaelSantos)
+- **LinkedIn:** [Rafael Antunes](https://www.linkedin.com/in/rafael-antunes-dos-santos/)
+- **E-mail:** ra.antunes.santos@gmail.com
+
+---
+
+*Projeto desenvolvido para fins de avaliação técnica e demonstração de habilidades em análise de dados, SQL, Python, Power BI e DAX.*
